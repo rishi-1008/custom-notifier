@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Custom Notifier</string>
+    <string name="add_apps">Add some apps (Press the button below)</string>
+    <string name="about">About</string>
+    <string name="team">Team members\n
+        \nD.Ravikanth Reddy\t\t15K41A0578
+        \nK.Risheek Reddy\t\t15K41A0592
+        \nK.Sai Krishna Reddy\t\t15K41A0593
+        \nT.Prashanth Yadav\t\t15K41A05B2</string>
+</resources>
